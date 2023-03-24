@@ -1,6 +1,6 @@
 # rkbx-dl
 
-rkbx-dl is a lightweight wrapper around youtube-dl and FFmpeg to keep a rekordbox DJ music library syced with a youtube playlist. 
+rkbx-dl is a lightweight wrapper around youtube-dl, id3v2 and FFmpeg to keep a rekordbox DJ music library syced with a youtube playlist. 
 
 ## Requirements 
 A recent, working copy of [youtube-dl](https://github.com/ytdl-org/youtube-dl), [FFmpeg](https://ffmpeg.org) and [id3v2](https://id3v2.sourceforge.net) is needed.
